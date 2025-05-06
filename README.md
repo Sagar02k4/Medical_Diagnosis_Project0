@@ -33,6 +33,40 @@ Please follow the below steps to run this project.
 
 
 ### References
-- [1] Priyanka Sonar, Prof. K. Jaya Malini,” DIABETES PREDICTION USING DIFFERENT MACHINE LEARNING APPROACHES”, 2019 IEEE ,3rd International Conference on Computing Methodologies and Communication (ICCMC) 
-- [2] Archana Singh, Rakesh Kumar, “Heart Disease Prediction Using Machine Learning Algorithms”, 2020 IEEE, International Conference on Electrical and Electronics Engineering (ICE3) 
-- [3] A. Sivasangari, Baddigam Jaya Krishna Reddy, Annamareddy Kiran, P. Ajitha,” Diagnosis of Liver Disease using Machine Learning Models” 2020 Fourth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC) 
+-C. M. Bishop, Pattern Recognition and Machine Learning, Springer, 2006. [Bishop06]
+2. T. Mitchell, Machine Learning, McGraw-Hill, 1997. [Mitchell97]
+3. F. Pedregosa, G. Varoquaux, A. Gramfort, et al., "Scikit-learn: Machine learning in
+Python," Journal of Machine Learning Research, vol. 12, pp. 2825-2830, 2011.
+[Pedregosa et al., 2011]
+4. "Scikit-learn Documentation," https://scikit-learn.org/stable/documentation.html,
+accessed June 2024. [SklearnDoc2024]
+5. M. Kane, "Streamlit – The fastest way to build data apps in Python," https://streamlit.io/,
+accessed June 2024. [Streamlit2024]
+6. W. S. Cleveland Clinic, "Heart Disease Dataset," UCI Machine Learning Repository,
+https://archive.ics.uci.edu/ml/datasets/heart+Disease, accessed June 2024.
+[HeartDataUCI]
+7. UCI Machine Learning Repository, "Pima Indians Diabetes Dataset,"
+https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes, accessed June 2024.
+[DiabetesDataUCI]
+8. S. Little, "Parkinson’s Disease Data Set," UCI Machine Learning Repository,
+https://archive.ics.uci.edu/ml/datasets/Parkinsons, accessed June 2024.
+[ParkinsonsDataUCI]
+9. Indian Liver Patient Dataset (ILPD), UCI Machine Learning Repository,
+https://archive.ics.uci.edu/ml/datasets/ILPD+(Indian+Liver+Patient+Dataset), accessed
+June 2024. [LiverDataUCI]
+10. S. Dua and X. Graff, "UCI Machine Learning Repository," http://archive.ics.uci.edu/ml,
+University of California, Irvine, School of Information and Computer Sciences, 2019.
+[UCIRepo2019]
+11. J. Brownlee, Machine Learning Mastery with Python, Machine Learning Mastery, 2016.
+[Brownlee16]
+12. P. Rashidi and H. B. Shaban-Nejad, "Artificial Intelligence and Big Data Analytics for
+Smart Health," Health Informatics Journal, vol. 25, no. 4, pp. 1081-1094, 2019.
+[Rashidi2019]
+13. D. C. Cireşan, U. Meier, J. Masci, L. M. Gambardella, and J. Schmidhuber, “High-
+Performance Neural Networks for Visual Object Classification,” arXiv preprint
+arXiv:1102.0183, 2011. [Ciresan2011]
+14. K. He, X. Zhang, S. Ren, and J. Sun, "Deep Residual Learning for Image Recognition,"
+in Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2016, pp.
+770-778. [He16]
+15. Python Software Foundation, "Python Language Reference, version 3.11,"
+https://docs.python.org/3/, accessed June 2024. [PythonDoc2024]
